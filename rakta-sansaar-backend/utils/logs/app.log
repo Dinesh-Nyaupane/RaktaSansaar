@@ -1,0 +1,364 @@
+2025-04-29T06:01:34.469Z - ERROR: Error finding user by email ram@example.com: User not found
+2025-04-29T06:02:17.817Z - ERROR: Error finding user by email ram@example.com: User not found
+2025-04-29T06:04:32.756Z - ERROR: Error finding user by email ram@example.com: User not found
+2025-04-29T06:04:39.092Z - ERROR: Error finding user by email ram@example.com: User not found
+2025-04-29T06:05:14.453Z - ERROR: Error finding user by email undefined: User not found
+2025-04-29T06:05:52.485Z - ERROR: Error finding user by email johndoe@example.com: User not found
+2025-04-29T06:06:00.909Z - ERROR: Error finding user by email johndoe@example.com: User not found
+2025-04-29T06:07:45.241Z - ERROR: Error during user registration: userService.hashPassword is not a function
+2025-04-29T06:08:54.050Z - ERROR: Error during user registration: userService.hashPassword is not a function
+2025-04-29T06:10:31.097Z - WARN: User not found with email: johndoe@example.com
+2025-04-29T06:10:31.177Z - ERROR: Error during user registration: userService.calculateAge is not a function
+2025-04-29T06:11:37.656Z - WARN: User not found with email: johndoe@example.com
+2025-04-29T06:11:37.725Z - ERROR: Error during user registration: userService.calculateAge is not a function
+2025-04-29T06:12:29.978Z - ERROR: Error during user registration: userService.hashPassword is not a function
+2025-04-29T06:13:45.491Z - WARN: User not found with email: johndoe@example.com
+2025-04-29T06:13:45.571Z - ERROR: Error during user registration: userService.calculateAge is not a function
+2025-04-29T06:14:53.824Z - WARN: User not found with email: johndoe@example.com
+2025-04-29T06:14:53.908Z - ERROR: Error during user registration: userService.calculateAge is not a function
+2025-04-29T06:15:54.298Z - WARN: User not found with email: johndoe@example.com
+2025-04-29T06:15:54.385Z - ERROR: Error during user registration: calculateAge is not defined
+2025-04-29T06:16:17.432Z - WARN: User not found with email: johndoe@example.com
+2025-04-29T06:16:17.773Z - INFO: New user created with email: johndoe@example.com
+2025-04-29T06:16:17.776Z - ERROR: Error during user registration: emailService.sendWelcomeEmail is not a function
+2025-04-29T06:17:19.929Z - WARN: User not found with email: johndoe667@example.com
+2025-04-29T06:17:20.346Z - ERROR: Error creating user with email johndoe667@example.com: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "1234567890" }
+2025-04-29T06:17:20.346Z - ERROR: Error during user registration: Failed to create user: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "1234567890" }
+2025-04-29T06:17:33.837Z - WARN: User not found with email: johndoe667@example.com
+2025-04-29T06:17:34.174Z - INFO: New user created with email: johndoe667@example.com
+2025-04-29T06:17:34.913Z - ERROR: Error during user registration: Failed to send welcome email
+2025-04-29T06:19:22.839Z - WARN: User not found with email: johndoe7@example.com
+2025-04-29T06:19:23.243Z - ERROR: Error creating user with email johndoe7@example.com: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "1234067890" }
+2025-04-29T06:19:23.244Z - ERROR: Error during user registration: Failed to create user: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "1234067890" }
+2025-04-29T06:19:38.373Z - WARN: User not found with email: johndoe7@example.com
+2025-04-29T06:19:38.823Z - INFO: New user created with email: johndoe7@example.com
+2025-04-29T06:19:40.713Z - ERROR: Error during user registration: Failed to send welcome email
+2025-04-29T06:23:39.666Z - WARN: User not found with email: johndoe09@example.com
+2025-04-29T06:23:40.094Z - ERROR: Error creating user with email johndoe09@example.com: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "1234055890" }
+2025-04-29T06:23:40.095Z - ERROR: Error during user registration: Failed to create user: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "1234055890" }
+2025-04-29T06:24:21.572Z - WARN: User not found with email: johnd8989@example.com
+2025-04-29T06:24:22.001Z - INFO: New user created with email: johnd8989@example.com
+2025-04-29T06:24:23.725Z - ERROR: Error during user registration: Failed to send welcome email
+2025-04-29T06:29:20.221Z - WARN: User not found with email: aryalkamal53@example.com
+2025-04-29T06:29:20.627Z - INFO: New user created with email: aryalkamal53@example.com
+2025-04-29T06:29:21.374Z - ERROR: Error during user registration: Failed to send welcome email
+2025-04-29T06:32:27.718Z - WARN: User not found with email: geetabanjade7@example.com
+2025-04-29T06:32:28.083Z - INFO: New user created with email: geetabanjade7@example.com
+2025-04-29T06:32:28.788Z - ERROR: Error during user registration: Failed to send welcome email
+2025-04-29T06:41:16.519Z - WARN: User not found with email: geetabanjade8@example.com
+2025-04-29T06:41:16.892Z - ERROR: Error creating user with email geetabanjade8@example.com: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "9857068371" }
+2025-04-29T06:41:16.892Z - ERROR: Error during user registration: Failed to create user: E11000 duplicate key error collection: rakta-sansaar.users index: phoneNo_1 dup key: { phoneNo: "9857068371" }
+2025-04-29T06:41:33.631Z - WARN: User not found with email: geetabanjade8@example.com
+2025-04-29T06:41:33.962Z - INFO: New user created with email: geetabanjade8@example.com
+2025-04-29T06:42:49.911Z - WARN: User not found with email: geetabanjade7@example.com
+2025-04-29T06:42:50.240Z - INFO: New user created with email: geetabanjade7@example.com
+2025-04-29T07:13:06.700Z - WARN: User not found with email: strongpassword123
+2025-04-29T07:13:06.706Z - ERROR: Error comparing password for email strongpassword123: User not found
+2025-04-29T07:13:06.707Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:13:37.043Z - WARN: User not found with email: geetabanjade7@gmail.com
+2025-04-29T07:14:03.397Z - WARN: User not found with email: geetabanjade7@gmail.com
+2025-04-29T07:14:25.953Z - WARN: User not found with email: strongpassword123
+2025-04-29T07:14:25.957Z - ERROR: Error comparing password for email strongpassword123: User not found
+2025-04-29T07:14:25.958Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:15:42.933Z - WARN: User not found with email: strongpassword123
+2025-04-29T07:15:42.937Z - ERROR: Error comparing password for email strongpassword123: User not found
+2025-04-29T07:15:42.938Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:17:08.520Z - WARN: User not found with email: dineshnyaupane333@gmail.com
+2025-04-29T07:17:09.174Z - INFO: New user created with email: dineshnyaupane333@gmail.com
+2025-04-29T07:17:32.670Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:17:32.676Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:17:32.676Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:22:08.998Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:22:09.004Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:22:09.004Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:23:12.898Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:23:12.902Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:23:12.903Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:24:36.580Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:24:36.584Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:24:36.585Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:25:09.890Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:25:09.895Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:25:09.895Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:25:11.452Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:25:11.453Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:25:11.454Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:27:44.833Z - WARN: Invalid password attempt
+2025-04-29T07:27:44.840Z - ERROR: Error comparing password: Invalid password
+2025-04-29T07:27:44.841Z - ERROR: Error during user login: Invalid credentials: Invalid password
+2025-04-29T07:28:47.557Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:28:47.562Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:28:47.562Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:29:03.916Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:29:03.920Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:29:03.921Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:31:16.777Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:31:16.782Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:31:16.783Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:34:24.059Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:34:24.064Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:34:24.065Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:36:51.805Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:36:51.811Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:36:51.812Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:40:53.500Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:40:53.506Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:40:53.507Z - ERROR: Error during user login: Invalid credentials: User not found
+2025-04-29T07:42:15.672Z - WARN: User not found with email: dinesh@98481
+2025-04-29T07:42:15.673Z - ERROR: Error comparing password for email dinesh@98481: User not found
+2025-04-29T07:44:56.370Z - WARN: Invalid password
+2025-04-29T07:45:18.262Z - WARN: Invalid password
+2025-04-29T07:46:37.931Z - WARN: Invalid password
+2025-04-29T07:46:53.485Z - WARN: Invalid password
+2025-04-29T07:48:11.393Z - WARN: Invalid password
+2025-04-29T07:52:23.530Z - WARN: Invalid password
+2025-04-29T07:59:38.048Z - WARN: Invalid password
+2025-04-29T08:01:44.673Z - WARN: Invalid password
+2025-04-29T08:04:44.998Z - WARN: User not found with email: dineshnyaupane333@gmail.com
+2025-04-29T08:04:45.291Z - INFO: New user created with email: dineshnyaupane333@gmail.com
+2025-04-29T08:33:24.603Z - WARN: User not found with email: dineshnyaupane333@gmail.com
+2025-04-29T08:33:24.937Z - INFO: New user created with email: dineshnyaupane333@gmail.com
+2025-04-29T08:33:24.946Z - ERROR: Error during user registration: userEmail is not defined
+2025-04-29T08:35:06.027Z - WARN: User not found with email: dineshnyaupane333@gmail.com
+2025-04-29T08:35:06.275Z - INFO: New user created with email: dineshnyaupane333@gmail.com
+2025-04-29T08:35:06.276Z - ERROR: Error during user registration: userEmail is not defined
+2025-04-29T08:37:38.613Z - WARN: User not found with email: dineshnyaupane451@gmail.com
+2025-04-29T08:37:38.953Z - INFO: New user created with email: dineshnyaupane451@gmail.com
+2025-05-02T07:44:30.322Z - WARN: Invalid password
+2025-05-02T08:18:48.189Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:19:01.675Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:20:36.351Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:21:24.106Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:21:27.364Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:21:27.551Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:22:16.527Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:26:30.901Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T08:26:34.984Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-02T14:47:01.169Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:47:07.860Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:47:12.219Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:48:10.012Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:48:14.895Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:48:18.860Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:48:55.891Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:50:43.084Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:51:51.059Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:52:07.950Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T14:56:10.178Z - WARN: User not found with email: john@example.com
+2025-05-02T14:56:10.267Z - ERROR: Error creating user with email john@example.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required
+2025-05-02T14:56:10.268Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required
+2025-05-02T14:57:00.296Z - WARN: User not found with email: john@example.com
+2025-05-02T14:57:00.349Z - ERROR: Error creating user with email john@example.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required
+2025-05-02T14:57:00.349Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required
+2025-05-02T14:58:44.588Z - WARN: User not found with email: john@example.com
+2025-05-02T14:58:44.648Z - ERROR: Error creating user with email john@example.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required
+2025-05-02T14:58:44.649Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required
+2025-05-02T16:59:03.397Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T16:59:03.454Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T16:59:03.455Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T16:59:07.666Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T16:59:07.718Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T16:59:07.719Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:00:08.245Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T17:00:08.295Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:00:08.298Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:01:30.837Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T17:01:30.885Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:01:30.886Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:12:12.465Z - ERROR: ❌ MongoDB connection failed: options usecreateindex, usefindandmodify are not supported
+2025-05-02T17:12:42.628Z - ERROR: ❌ MongoDB connection failed: options usecreateindex, usefindandmodify are not supported
+2025-05-02T17:14:32.638Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T17:14:32.754Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:14:32.755Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:14:59.425Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T17:14:59.502Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:14:59.503Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:16:16.917Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T17:16:16.984Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:16:16.985Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:19:40.296Z - WARN: User not found with email: viyijib538@bocapies.com
+2025-05-02T17:19:40.366Z - ERROR: Error creating user with email viyijib538@bocapies.com: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-02T17:19:40.368Z - ERROR: Error during user registration: Failed to create user: User validation failed: bloodType: Blood type is required, phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-03T17:19:53.961Z - ERROR: Error finding user by email dineshnyaupane333@gmail.com: getaddrinfo ENOTFOUND raktasansaar-shard-00-02.sr6zv.mongodb.net
+2025-05-03T17:19:56.510Z - ERROR: Error finding user by email dineshnyaupane333@gmail.com: getaddrinfo ENOTFOUND raktasansaar-shard-00-02.sr6zv.mongodb.net
+2025-05-04T04:30:31.192Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:30:31.307Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:30:31.308Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:33:22.845Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:33:22.912Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:33:22.990Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:33:22.991Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:35:34.306Z - INFO: Server started on http://localhost:5500
+2025-05-04T04:35:40.980Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:35:41.035Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:35:41.094Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:35:41.094Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:37:21.635Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:37:21.695Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:37:21.753Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:37:21.754Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:40:14.945Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:40:14.997Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:40:15.055Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:40:15.056Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:43:04.957Z - INFO: Server started on http://localhost:5500
+2025-05-04T04:43:08.522Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:43:08.582Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:43:08.656Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:43:08.657Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:48:36.620Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:48:36.679Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:48:36.736Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:48:36.737Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:52:07.797Z - INFO: Server started on http://localhost:5500
+2025-05-04T04:53:09.182Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:53:51.765Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:56:25.269Z - INFO: Server started on http://localhost:5500
+2025-05-04T04:56:40.785Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:56:40.852Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T04:56:40.931Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T04:56:40.932Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:00:28.620Z - INFO: Server started on http://localhost:5500
+2025-05-04T05:00:32.560Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:00:32.618Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:00:32.686Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:00:32.686Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:01:13.375Z - INFO: Server started on http://localhost:5500
+2025-05-04T05:04:22.355Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:04:22.411Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:04:22.477Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:04:22.478Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:05:16.769Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:05:16.829Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:05:16.884Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:05:16.885Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:06:08.453Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:06:08.506Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:06:08.561Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:06:08.562Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:11:35.064Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:11:35.113Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:11:35.169Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:11:35.170Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:12:28.102Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:12:28.153Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:12:28.202Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:12:28.203Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:25:30.973Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:25:31.026Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:25:31.076Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:25:31.077Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:33:54.721Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:33:54.775Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:33:54.835Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:33:54.836Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:34:41.641Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:34:41.693Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:34:41.744Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:34:41.745Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:36:17.221Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:36:17.272Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:36:17.324Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:36:17.325Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:41:00.713Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:41:00.762Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:41:00.813Z - ERROR: Error creating user with email tulasiaryal675@gmail.com: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:41:00.813Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required, dob: You must be at least 18 years old
+2025-05-04T05:42:04.968Z - WARN: User not found with email: dineshnyaupane4511@gmail.com
+2025-05-04T05:42:05.038Z - WARN: User not found with email: dineshnyaupane4511@gmail.com
+2025-05-04T05:42:05.109Z - ERROR: Error creating user with email dineshnyaupane4511@gmail.com: User validation failed: phoneNo: Phone number is required
+2025-05-04T05:42:05.110Z - ERROR: Error during user registration: Failed to create user: User validation failed: phoneNo: Phone number is required
+2025-05-04T05:46:06.989Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:47:51.410Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T05:48:43.045Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T13:48:20.915Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T14:19:04.592Z - WARN: Invalid password
+2025-05-04T14:20:05.284Z - WARN: User not found with email: undefined
+2025-05-04T14:21:51.073Z - WARN: User not found with email: undefined
+2025-05-04T14:22:14.000Z - WARN: User not found with email: undefined
+2025-05-04T14:26:28.642Z - WARN: User not found with email: undefined
+2025-05-04T14:27:29.162Z - WARN: User not found with email: undefined
+2025-05-04T14:27:33.445Z - WARN: User not found with email: undefined
+2025-05-04T14:27:42.100Z - WARN: User not found with email: undefined
+2025-05-04T14:28:36.311Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-04T14:31:16.222Z - WARN: User not found with email: undefined
+2025-05-04T14:33:04.111Z - WARN: User not found with email: undefined
+2025-05-04T14:35:43.065Z - WARN: User not found with email: undefined
+2025-05-04T14:37:59.277Z - WARN: User not found with email: undefined
+2025-05-04T14:38:33.235Z - WARN: User not found with email: undefined
+2025-05-04T14:42:30.010Z - WARN: User not found with email: undefined
+2025-05-04T14:43:24.646Z - WARN: User not found with email: undefined
+2025-05-04T14:44:06.531Z - WARN: User not found with email: undefined
+2025-05-04T14:46:10.354Z - WARN: User not found with email: prakash.sharma@example.com
+2025-05-04T14:46:23.922Z - WARN: User not found with email: prakashsharma@example.com
+2025-05-04T14:50:37.542Z - WARN: User not found with email: prakashsharma@example.com
+2025-05-04T14:53:50.427Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-04T15:02:19.819Z - WARN: User not found with email: tulasiaryal2001@gmail.com
+2025-05-04T15:03:56.353Z - WARN: User not found with email: geetabanjade7@gmail.com
+2025-05-04T15:06:05.454Z - WARN: User not found with email: undefined
+2025-05-04T15:06:48.918Z - WARN: User not found with email: undefined
+2025-05-04T15:07:32.515Z - WARN: User not found with email: prakash.gautam19@gmail.com
+2025-05-04T15:08:01.735Z - WARN: User not found with email: sujata.basnet84@gmail.com
+2025-05-04T15:08:28.590Z - WARN: User not found with email: ramesh.shrestha91@gmail.com
+2025-05-04T15:08:50.473Z - WARN: User not found with email: sitakc1985@gmail.com
+2025-05-04T15:09:35.966Z - WARN: User not found with email: aakash.bhandari01@gmail.com
+2025-05-04T15:10:11.513Z - WARN: User not found with email: priya.sharma03@gmail.com
+2025-05-04T15:10:36.494Z - WARN: User not found with email: suman.rai16@gmail.com
+2025-05-04T15:10:44.774Z - WARN: User not found with email: suman.rai16@gmail.com
+2025-05-04T15:11:22.875Z - WARN: User not found with email: prakash.sharma9@gmail.com
+2025-05-04T15:11:49.455Z - WARN: User not found with email: sita.rai89@gmail.com
+2025-05-04T15:12:45.517Z - WARN: User not found with email: dineshnyaupane333@gmail.com
+2025-05-04T17:40:41.022Z - WARN: User not found with email: dineshnyaupane601@gmail.com
+2025-05-04T17:44:40.523Z - WARN: User not found with email: dineshnyaupane@gmail.com
+2025-05-04T18:08:59.910Z - WARN: User not found with email: dineshnyaupan77e@gmail.com
+2025-05-04T18:10:20.465Z - WARN: Invalid password
+2025-05-04T18:17:44.262Z - WARN: User not found with email: dineshnyaupan7e@gmail.com
+2025-05-04T18:18:47.779Z - WARN: User not found with email: dineshnyaupan7e@gmail.com
+2025-05-04T18:19:09.968Z - WARN: User not found with email: dineshnyaupan7777@gmail.com
+2025-05-08T17:13:13.784Z - WARN: User not found with email: admin@admin.com
+2025-05-09T06:04:47.394Z - WARN: Invalid password
+2025-05-09T08:33:21.308Z - WARN: User not found with email: dineshnyaupane7777@gmail.com
+2025-05-09T08:39:09.927Z - WARN: User not found with email: dineshnyaupan7778@gmail.com
+2025-05-09T08:39:45.719Z - WARN: User not found with email: dineshnyaupane7778@gmail.com
+2025-05-09T08:41:14.038Z - WARN: User not found with email: sitathapa123@gmail.com
+2025-05-09T10:26:24.935Z - WARN: User not found with email: dineshnyaupane3333@gmail.com
+2025-05-09T10:44:23.032Z - WARN: User not found with email: sitathapa13@gmail.com
+2025-05-09T10:44:29.654Z - WARN: User not found with email: sitathapa13@gmail.com
+2025-05-09T10:58:38.744Z - WARN: User not found with email: viveksharma@gmail.com
+2025-05-09T11:01:00.841Z - WARN: User not found with email: viveksharma@gmail.com
+2025-05-09T11:02:47.026Z - WARN: User not found with email: viveksharma@gmail.com
+2025-05-09T11:04:36.055Z - WARN: User not found with email: viveksharma@gmail.com
+2025-05-09T11:21:55.654Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-09T11:23:01.485Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-09T11:26:26.140Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-09T11:26:48.347Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-09T11:27:10.743Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-09T11:27:25.221Z - WARN: User not found with email: aryalkamal53@gmail.com
+2025-05-09T11:31:00.774Z - WARN: User not found with email: bhvnbhsl@gmail.com
+2025-05-09T11:31:52.056Z - WARN: User not found with email: bhvnbhsl@gmail.com
+2025-05-09T11:33:21.205Z - WARN: User not found with email: bhvnbhsl@gmail.com
+2025-05-09T11:40:43.436Z - WARN: User not found with email: dineshnyaupaneeee@gmail.com
+2025-05-09T13:53:39.336Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-09T13:58:03.802Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-09T13:58:04.840Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-09T13:58:07.821Z - WARN: User not found with email: tulasiaryal675@gmail.com
+2025-05-09T17:39:20.200Z - WARN: User not found with email: sandeshneupane45321@gmail.com
+2025-05-09T17:39:43.197Z - WARN: User not found with email: sandeshneupane45321@gmail.com
+2025-05-09T17:40:21.511Z - WARN: User not found with email: sandeshneupane45321@gmail.com
+2025-05-09T18:22:01.140Z - WARN: User not found with email: sandeshneupane54321@gmail.com
+2025-07-01T04:53:46.080Z - WARN: User not found with email: shankararyal68@gmail.com
+2025-07-02T05:05:34.253Z - WARN: User not found with email: dinesh@gmail.com
+2025-07-02T05:06:19.571Z - WARN: User not found with email: dinesh@gmail.com
+2025-07-02T05:07:17.925Z - WARN: User not found with email: dinesh@gmail.com
+2025-07-02T05:07:32.047Z - WARN: User not found with email: dinesh@gmail.com
+2025-07-02T05:07:45.179Z - WARN: User not found with email: dinesh777777@gmail.com
+2025-07-02T05:10:17.646Z - WARN: User not found with email: dinesh777777@gmail.com
+2025-07-02T05:16:53.806Z - WARN: User not found with email: batunda@gmail.com
+2025-07-02T05:17:27.809Z - WARN: User not found with email: batunda@gmail.com
+2025-07-02T05:19:57.569Z - WARN: User not found with email: batunda@gmail.com
+2025-07-02T05:20:20.434Z - WARN: User not found with email: batunda@gmail.com
+2025-07-02T05:22:10.655Z - WARN: User not found with email: batundaa@gmail.com
+2025-07-02T05:25:44.260Z - WARN: User not found with email: aryalmina84@gmail.com
+2025-07-02T05:30:16.274Z - WARN: User not found with email: aryalmina84@gmail.com
+2025-07-02T05:30:21.023Z - ERROR: Error finding user by email aryalmina84@gmail.com: read ECONNRESET
+2025-07-03T03:18:01.191Z - WARN: User not found with email: damasashok@gmail.com
