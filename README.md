@@ -76,18 +76,6 @@ Blood donation is a critical healthcare need, and finding the right donor quickl
 
 ---
 
-## Installation & Usage
-
-*(You can add detailed instructions here if you want to share this project with others.)*
-
----
-
-## License
-
-*(Specify your license if applicable.)*
-
----
-
 Thank you for checking out **Rakta Sansaar**!  
 Contributions and feedback are welcome.
 
